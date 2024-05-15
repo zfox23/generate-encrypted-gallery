@@ -1,0 +1,1 @@
+Your generated JSON and encrypted images will end up in a subfolder of this folder.
